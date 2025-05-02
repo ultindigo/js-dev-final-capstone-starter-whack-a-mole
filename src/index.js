@@ -9,7 +9,7 @@ let time = 0;
 let timer;
 let lastHole = 0;
 let points = 0;
-let difficulty = "hard";
+let difficulty = "easy"; //updated from hard to easy for troubleshooting
 
 /**
  * Generates a random integer within a range.
